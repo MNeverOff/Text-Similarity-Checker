@@ -1,0 +1,6 @@
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\bin\Debug\SimilarityTextChecker.exe.config
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\bin\Debug\SimilarityTextChecker.exe
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\bin\Debug\SimilarityTextChecker.pdb
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\obj\Debug\SimilarityTextChecker.csprojResolveAssemblyReference.cache
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\obj\Debug\SimilarityTextChecker.exe
+c:\users\stivenlh\documents\visual studio 2013\Projects\SimilarityTextChecker\SimilarityTextChecker\obj\Debug\SimilarityTextChecker.pdb
